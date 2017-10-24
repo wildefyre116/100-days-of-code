@@ -10,14 +10,14 @@
 
 **Link to work:** [Build a Personal Portfolio Project, Free Code Camp], ( https://codepen.io/wildefyre116/full/GMezLj )
 
-<!--### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: October 1, 2017
+<!--##### (delete me or comment me out)
 
-<!--**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Very excited to start on project for client, i started the framework, pulled some.deigns together, did some initial coding on it.
 
-<!--**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Uo until now, all of the projects ive worked on have been for assignment or for fun, this is the first time doing it for someone else. Its a little daunting, but Ive got this!
 
-<!--**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: Forgot ro grab the link, and about to fall asleep, will add it tomorrow :)
 
 
 <!--### Day 1: June 27, Monday
