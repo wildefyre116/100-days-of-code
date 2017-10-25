@@ -11,21 +11,21 @@
 **Link to work:** [Build a Personal Portfolio Project, Free Code Camp], ( https://codepen.io/wildefyre116/full/GMezLj )
 
 ### Day 1: October 1, 2017
-<!--##### (delete me or comment me out)
-
-**Today's Progress**: Very excited to start on project for client, i started the framework, pulled some.deigns together, did some initial coding on it.
-
-**Thoughts**: Uo until now, all of the projects ive worked on have been for assignment or for fun, this is the first time doing it for someone else. Its a little daunting, but Ive got this!
-
-**Link(s) to work**: Forgot ro grab the link, and about to fall asleep, will add it tomorrow :)
 
 
-<!--### Day 1: June 27, Monday
+**Today's Progress**: Very excited to start on project for client, i started the framework, pulled some designs together, did some initial coding on it.
 
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: Up until now, all of the projects ive worked on have been for assignment or for fun, this is the first time doing it for someone else. Its a little daunting, but Ive got this!
 
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: Forgot to grab the link, and about to fall asleep, will add it tomorrow :)
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+### Day 2: October 24,2017 Tuesday
+
+**Today's Progress**: Continued working on simple business webpage for client, so getting more practice with bootstrap and jQuery. 
+
+**Thoughts** So many resources available to build with, and of course I found the perfect font for the design concept we are going for, and of course it was $39, couldnt be a free one on Google Fonts! well, i found the closest I could to use. Finding that there are a lot of templates and snippets, but trying to avoid them, I learn alot more writing the code myself, and through trial and error. Also, I find that I really lose track of time when I am working on something, sat down just to get started on the basic bare bones, and its now 5 hours later!
+
+**Link(s) to work**
+link to webpage from Days1,2
+[Webpage for small cake business], ( https://codepen.io/wildefyre116/full/jGoXLJ )
