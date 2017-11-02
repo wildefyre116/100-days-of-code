@@ -29,3 +29,9 @@
 **Link(s) to work**
 link to webpage from Days1,2
 [Webpage for small cake business], ( https://codepen.io/wildefyre116/full/jGoXLJ )
+
+### Days 3-10: October 25-November 1, 2017
+**Progress**: I have continued to bumble through JS, and started building a Halloween web page, it isn't finished, but enjoying trying new concepts as I learn them, and even before I have learned them. 
+**Thoughts**: I havent been logging like I should, but I am working. Was kind of stuck on what to practice coding, have been battling through a mental block learning JS. But sticking to it, and everyday it is getting a little clearer, but working on coursework (FreeCodeCamp, CodeAcademy, And the Odin Project concurrently) i am not getting as much coding in as I would like, I learn best by doing!
+**Link to work**
+[Halloween! webpage] (https://codepen.io/wildefyre116/full/jaEEeG/)
